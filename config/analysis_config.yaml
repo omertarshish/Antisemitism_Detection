@@ -1,0 +1,26 @@
+# Configuration for analysis and visualization
+output_dir: "data/results"
+plots_dir: "data/results/plots"
+topic_analysis:
+  n_topics: 5
+  max_df: 0.95
+  min_df: 2
+  random_state: 42
+
+error_analysis:
+  analyze_by_length:
+    enabled: true
+    bins: [0, 80, 120, 160, 200, 240, 280, 320, 400, 600, 1000]
+    labels: ["0-80", "81-120", "121-160", "161-200", "201-240", "241-280", "281-320", "321-400", "401-600", "601+"]
+  
+  analyze_by_keyword:
+    enabled: true
+    min_count: 5
+    top_n: 15
+
+visualization:
+  formats: ["png", "pdf"]
+  figsize_default: [12, 8]
+  style: "seaborn-v0_8-darkgrid"
+  palette: "colorblind"
+  dpi: 300

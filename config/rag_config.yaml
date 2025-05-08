@@ -1,0 +1,46 @@
+# RAG Configuration for Antisemitism Detection
+
+# Ollama Connection Settings
+ollama_base_url: "http://localhost:11434"
+ollama_model: "llama3"
+ollama_ip_port: "localhost:11434"
+
+# Twitter API Credentials (optional, leave empty if not available)
+twitter_api_key: ""
+twitter_api_secret: ""
+twitter_bearer_token: ""
+
+# Vector Store Settings
+vector_store_path: "data/vector_stores/tweet_contexts"
+embedding_model: "sentence-transformers/all-MiniLM-L6-v2"
+
+# Processing Settings
+max_workers: 4
+batch_size: 100
+temp_dir: "data/temp_data/rag_batches"
+
+# Data Sources
+# This section defines where to look for additional context beyond the tweet itself
+context_sources:
+  # Enable/disable various sources of context
+  thread_context: true       # Get previous tweets in the same thread
+  replies: true              # Get replies to the tweet
+  quoted_content: true       # Get content from quoted tweets
+  referenced_articles: true  # Try to extract context from URLs in the tweet
+  
+  # URL extraction settings
+  url_extraction:
+    attempt_browser_render: false  # Whether to attempt to render URLs with a headless browser
+    max_article_length: 5000       # Maximum length of article content to extract
+
+# Classification Settings
+classification:
+  # Threshold for confidence in classification
+  min_confidence: 0.7
+  
+  # Whether to enable a dedicated "calling out antisemitism" detection
+  detect_callout: true
+  
+  # Whether to use cached RAG results when available
+  use_cache: true
+  cache_ttl_days: 30  # How long to consider cached results valid

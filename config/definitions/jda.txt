@@ -1,0 +1,33 @@
+The Jerusalem Declaration on Antisemitism (JDA) defines antisemitism as follows:
+
+Definition:
+Antisemitism is discrimination, prejudice, hostility or violence against Jews as Jews (or Jewish institutions as Jewish).
+
+Guidelines:
+A. General
+1. It is racist to essentialize (treat a character trait as inherent) or to make sweeping negative generalizations about a given population. What is true of racism in general is true of antisemitism in particular.
+2. What is particular in classic antisemitism is the idea that Jews are linked to the forces of evil. This stands at the core of many anti-Jewish fantasies, such as the idea of a Jewish conspiracy in which "the Jews" possess hidden power that they use to promote their own collective agenda at the expense of other people. This linkage between Jews and evil continues in the present: in the fantasy that "the Jews" control governments with a "hidden hand", that they own the banks, control the media, act as "a state within a state", and are responsible for spreading disease (such as Covid-19). All these features can be instrumentalized by different (and even antagonistic) political causes.
+3. Antisemitism can be manifested in words, visual images, and deeds. Examples of antisemitic words include utterances that all Jews are wealthy, inherently stingy, or unpatriotic. In antisemitic caricatures, Jews are often depicted as grotesque, with big noses and associated with wealth. Examples of antisemitic deeds are: assaulting someone because she or he is Jewish, attacking a synagogue, daubing swastikas on Jewish graves, or refusing to hire or promote people because they are Jewish.
+4. Antisemitism can be direct or indirect, explicit or coded. For example, "the Rothschilds control the world" is a coded statement about the alleged power of "the Jews" over banks and international finance. Similarly, portraying Israel as the ultimate evil or grossly exaggerating its actual influence can be a coded way of racializing and stigmatizing Jews. In many cases, identifying coded speech is a matter of context and judgement, taking account of these guidelines.
+5. Denying or minimizing the Holocaust by claiming that the deliberate Nazi genocide of the Jews did not take place, or that there were no extermination camps or gas chambers, or that the number of victims was a fraction of the actual total, is antisemitic.
+
+B. Israel and Palestine: examples that, on the face of it, are antisemitic
+6. Applying the symbols, images, and negative stereotypes of classical antisemitism (see guidelines 2 and 3) to the State of Israel.
+7. Holding Jews collectively responsible for Israel's conduct or treating Jews, simply because they are Jewish, as agents of Israel.
+8. Requiring people, because they are Jewish, publicly to condemn Israel or Zionism (for example, at a political meeting).
+9. Assuming that non-Israeli Jews, simply because they are, Jews are necessarily more loyal to Israel than to their own countries.
+10. Denying the right of Jews in the State of Israel to exist and flourish, collectively and individually, as Jews, in accordance with the principle of equality.
+
+C. Israel and Palestine: examples that, on the face of it, are not antisemitic
+(whether or not one approves of the view or action)
+11. Supporting the Palestinian demand for justice and the full grant of their political, national, civil, and human rights, as encapsulated in international law.
+12. Criticizing or opposing Zionism as a form of nationalism, or arguing for a variety of constitutional arrangements for Jews and Palestinians in the area between the Jordan River and the Mediterranean. It is not antisemitic to support arrangements that accord full equality to all inhabitants "between the river and the sea", whether in two states, a binational state, unitary democratic state, federal state, or in whatever form.
+13. Evidence-based criticism of Israel as a state. This includes its institutions and founding principles. It also includes its policies and practices, domestic and abroad, such as the conduct of Israel in the West Bank and Gaza, the role Israel plays in the region, or any other way in which, as a state, it influences events in the world. It is not antisemitic to point out systematic racial discrimination. In general, the same norms of debate that apply to other states and to other conflicts over national self-determination apply in the case of Israel and Palestine. Thus, even if contentious, it is not antisemitic, in and of itself, to compare Israel with other historical cases, including settler-colonialism or apartheid.
+14. Boycott, divestment, and sanctions are commonplace, non-violent forms of political protest against states. In the Israeli case they are not, in and of themselves, antisemitic.
+15. Political speech does not have to be measured, proportional, tempered, or reasonable to be protected under article 19 of the Universal Declaration of Human Rights or article 10 of the European Convention on Human Rights and other human rights instruments. Criticism that some may see as excessive or contentious, or as reflecting a "double standard", is not, in and of itself, antisemitic. In general, the line between antisemitic and non-antisemitic speech is different from the line between unreasonable and reasonable speech.
+
+Tweet: "{text}"
+
+Is this tweet antisemitic according to the JDA definition? Provide a yes/no answer first, followed by a detailed explanation/justification for your decision. Format your response as: 
+DECISION: [Yes/No]
+EXPLANATION: [Your detailed explanation]

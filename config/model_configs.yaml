@@ -1,0 +1,11 @@
+ models:
+    phi4:
+      name: "phi:4"
+      safe_name: "phi-4"
+      memory_required: "48GB"
+      gpu_type: "RTX6000"
+    deepseek_7b:
+      name: "deepseek-r1:7b"
+      safe_name: "deepseek-r1_7b"
+      memory_required: "48GB"
+      gpu_type: "RTX6000"

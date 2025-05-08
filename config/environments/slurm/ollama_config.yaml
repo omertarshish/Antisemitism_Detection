@@ -1,0 +1,6 @@
+# Slurm-specific configuration for Ollama inference
+ip_port: "127.0.0.1:11434"  # Will be forwarded from cluster
+max_workers: 16  # Higher for cluster environment
+batch_size: 500
+output_dir: "/scratch/user/results"
+temp_dir: "/scratch/user/batches"

@@ -1,0 +1,6 @@
+# Local environment configuration for Ollama inference
+ip_port: "localhost:11434"
+max_workers: 4  # Lower for local environment
+batch_size: 100
+output_dir: "data/results"
+temp_dir: "data/processed/batches"
